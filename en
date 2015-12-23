@@ -1,17 +1,17 @@
-Skout's 
 
-Online Friendship Survey 2016
+
+Skout's Online Friendship Survey 2016
 
 1. Are you male or female?
 Male
 Female
 
 2. How old are you?
-18-20
-21-29
-30-39
+18-29
+30-35
+36-39
 40-49
-50 or older
+50+
 
 3. In what country do you live?
 USA
@@ -32,7 +32,8 @@ Vietnam
 Yes
 No 
 
-***(DO NOT TRANSLATE: If no, end of survey)**
+/// DO NOT TRANSLATE: If no, end of survey///
+
 
 5. How many online friends do you have?
 1
@@ -81,4 +82,15 @@ No
 15. Who is it easier to talk to about your sex life?
 Online friends
 Friends in real life
+
+
+///// DO NOT TRANSLATE: BULK MESSAGE /////
+
+
+Do you have online friends? Tap here to take a quick, anonymous survey. 
+
+Do you have online friends? Please take our quick, anonymous survey! 
+
+TAP HERE!
+ 
 
